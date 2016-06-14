@@ -15,4 +15,3 @@ if __name__ == '__main__':
 
     game = Game(nr_of_players=nr_of_players, player_names=player_names)
     game.loop()
-
