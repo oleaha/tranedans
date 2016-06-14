@@ -1,0 +1,4 @@
+functools32==3.2.3.post2
+jsonschema==2.5.1
+py==1.4.31
+pytest==2.9.2
