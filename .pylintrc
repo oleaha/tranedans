@@ -1,0 +1,4 @@
+[MESSAGE CONTROL]
+
+# Disable stupid docstring message
+disable=C0111
